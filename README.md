@@ -4,7 +4,6 @@ This is country Code To Country Codeigniter helper (Country in Arabic) with drop
 
 ## Requirements:
 1. Codeigniter V 2.0 or higher
-2. Composer.
 
 ## Usage:
 Copy Code2Country_helper.php To helper "Directory" and add it to "Autoload" file 
